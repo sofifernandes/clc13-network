@@ -3,7 +3,7 @@ resource "aws_vpc" "minha_vpc" {
   instance_tenancy = "default"
 
   tags = {
-    Name = "tf-vpc-sofia"
+    Name = "tf-vpc-sofia-fernandes"
   }
 }
 
